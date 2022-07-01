@@ -1,4 +1,4 @@
-# -C-Casos-Practicos-Finanzas
+# C-Casos-Practicos-Finanzas
 # Proposito
 Almacenar programas enfocados en finanzas creados en c y c++
 # Contenido
